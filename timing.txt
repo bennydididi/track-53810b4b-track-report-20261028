@@ -1,0 +1,18 @@
+start 2026-10-28 02:08:27 CST
+slug handwriting-worksheet-generator
+name 手写练习纸生成与AI反馈
+kw expand attempt 1 2026-10-28 02:08:27 CST
+kw expand done 2026-10-28 02:11:30 CST
+serp start 2026-10-28 02:11:30 CST
+serp done ec=0 2026-10-28 04:07:58 CST
+report start 2026-10-28 04:07:58 CST
+pipeline_start 2026-10-28T02:08:27+08:00
+report_stage_start 2026-10-28T04:07:58+08:00
+report_end 2026-10-28T04:20:32.252836+08:00
+pipeline_elapsed_seconds 7925
+pipeline_elapsed 2h 12m 5s
+report_stage_elapsed_seconds 754
+report_stage_elapsed 0h 12m 34s
+Timezone Asia/Shanghai (UTC+08:00). Includes inherited pipeline, not manual labor only.
+report end 2026-10-28 04:20:46 CST 用时 12 分钟
+done handwriting-worksheet-generator 2026-10-28 04:20:46 CST
